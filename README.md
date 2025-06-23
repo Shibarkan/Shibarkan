@@ -43,12 +43,14 @@
 
 ---
 
-### 🕹️ Retro Vibes
+### My Contact
 <p align="center">
-  <img src="./img/coding.gif" width="180"/>
-  <img src="https://i.pinimg.com/736x/18/da/73/18da73b6a3e0ea8055f1d0e0fd9a51e8.jpg" width="180"/>
-  <img src="https://i.pinimg.com/736x/dc/1c/3b/dc1c3bfa0e1c11f2ab996af0c2e91437.jpg" width="180"/>
+  <img src="./img/trio (1).jpg" width="180" style="margin-right: -4px;" />
+  <img src="https://i.pinimg.com/474x/55/5c/aa/555caa99336f5579017b239bfb6d170e.jpg" width="180" style="margin-right: -4px;" />
+  <img src="./img/trio.jpg" width="180" />
 </p>
+
+
 <p align="center"> <a href="https://github.com/Shibarkan"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="shibarkan01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> 
 
 ```diff

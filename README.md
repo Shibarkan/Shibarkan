@@ -9,8 +9,9 @@
 <p align="center"><em>Student  | Code  | Sports  | Pets  | Games</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Fullstack+Developer+👨‍💻;React+%2B+Tailwind+Lover+💙;Pixel+Gaming+Enthusiast+🕹️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%2B+Tailwind+Lover;Pixel+Gaming+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚙️-Fullstack-blueviolet" />

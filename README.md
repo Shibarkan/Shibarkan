@@ -52,6 +52,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Shibarkan/Shibarkan/output/snake.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shibarkan/Shibarkan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shibarkan/Shibarkan/output/pacman-contribution-graph.svg">
@@ -59,7 +60,9 @@
 </picture>
 
 
+
 ###
+
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=arkan&theme=dark" alt="Layout with last medium posts"  />

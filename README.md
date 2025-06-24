@@ -27,36 +27,45 @@
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently working on cool fullstack web apps  
-- 🧪 Exploring Rust + Godot for game dev  
-- 🎨 Designing pixel-art and UIs that feel like retro consoles  
-- 🕹️ I also create **mini browser games** as side projects!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shibarkan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shibarkan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/Shibarkan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shibarkan&show_icons=true&theme=tokyonight&bg_color=000000&icon_color=79ff97" alt="GitHub Stats" />
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Shibarkan/Shibarkan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=arkan&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/arkan">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=arkan&count=4&unique=false" alt="Spotify recently played"  />
   </a>
-</p>
+</div>
 
----
-
-### My Contact
-<p align="center">
-  <img src="./img/trio (1).jpg" width="180" style="margin-right: -4px;" />
-  <img src="https://i.pinimg.com/474x/55/5c/aa/555caa99336f5579017b239bfb6d170e.jpg" width="180" style="margin-right: -4px;" />
-  <img src="./img/trio.jpg" width="180" />
-</p>
-
-
-<p align="center"> <a href="https://github.com/Shibarkan"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="shibarkan01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> 
-
-```diff
-+ 🔋 Energy: 100%
-! ⚡ Next‑Level Goal: Master Rust & Godot
-- ❌ Offline mode: Not an option.
+###
 
 
 

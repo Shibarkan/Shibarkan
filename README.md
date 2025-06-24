@@ -34,6 +34,7 @@
 
 ###
 
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -59,13 +60,12 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/arkan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=arkan&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t7l4ow2ptayixllprz62d4ucoq&unique={true|1|on|yes})
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shibarkan/count.svg?"  />
+</div>
 
 
 

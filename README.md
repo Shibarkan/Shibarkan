@@ -53,6 +53,8 @@
 
 <img src="https://raw.githubusercontent.com/Shibarkan/Shibarkan/output/snake.svg" alt="Snake animation" />
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shibarkan/Shibarkan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shibarkan/Shibarkan/output/pacman-contribution-graph.svg">
@@ -68,6 +70,11 @@
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t7l4ow2ptayixllprz62d4ucoq&unique={true|1|on|yes})
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shibarkan/count.svg?"  />
+</div>
 
 ###
 

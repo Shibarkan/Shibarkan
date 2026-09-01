@@ -69,7 +69,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t7l4ow2ptayixllprz62d4ucoq&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31t7l4ow2ptayixllprz62d4ucoq&count=6&width=460&radius=20)
 
 ###
 <div align="center">
